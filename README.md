@@ -1,5 +1,9 @@
 # neuro-blog
 
+```
+This website uses firebase as its backend, so you just need to follow the instructions bellow to running it locally 
+```
+
 ## Project setup
 ```
 npm install

@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "welcome to the new blog",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "top 5 CSS tips",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "tags": [
+        "css",
+        "webdev",
+        "coding"
+      ]
+    },
+    {
+      "title": "Second Post",
+      "body": "testing again",
+      "tags": [
+        "test",
+        "is",
+        "working"
+      ],
+      "id": 3
+    },
+    {
+      "title": "Google Trends",
+      "body": "What are Google Trends\n\nIt is a website focused on measuring statistics about the terms searched on google",
+      "tags": [
+        "google",
+        "trends",
+        "statistics"
+      ],
+      "id": 4
+    }
+  ]
+}
